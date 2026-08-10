@@ -1,0 +1,8 @@
+{
+  "version": "1.1.0-alpha01",
+  "versionCode": 2,
+  "apk_url": "https://github.com/zakbodie/Sistema-de-Ascensao-Updates/releases/download/v1.1.0-alpha01/Sistema_de_Ascensao-1.1.0-alpha01.apk",
+  "notes": "• Painel do Sistema redesenhado como Central de Comando.\n• Missão principal em destaque com acesso em um toque.\n• Cartões rápidos para Hidratação, Disciplina, Evolução, Conquistas, Ajustes e Atualizações.\n• Rank, nível, XP e requisitos de ascensão mais visíveis.\n• Novo painel premium de atualização dentro do aplicativo.\n• Download feito pelo próprio Sistema e abertura do instalador ao concluir.\n• Canal de atualização totalmente separado do aplicativo de RPG.\n• Progresso local preservado.",
+  "required": false,
+  "sha256": "c14b5784a7c1aa4bed4000f570823c5d147a6a2951b7c8335e0a87a4f941eefb"
+}
