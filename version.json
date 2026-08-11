@@ -1,8 +1,8 @@
 {
-  "version": "1.1.0-alpha02",
-  "versionCode": 3,
-  "apk_url": "https://github.com/zakbodie/Sistema-de-Ascensao-Updates/releases/download/v1.1.0-alpha02/Sistema_de_Ascensao-1.1.0-alpha02.apk",
-  "notes": "• Correções gerais de estabilidade e persistência.\n• Sistema de atualização mais seguro.\n• Verificação SHA-256 do APK antes da instalação.\n• Downloads de atualização agora sobrevivem ao fechamento do app.\n• Correções no histórico e total de hidratação.\n• Água acima da meta agora é registrada corretamente.\n• Correções de XP, Perfect Day, disciplina e ascensão.\n• Operações importantes agora usam transações SQLite.\n• Lembretes respeitam missões já concluídas.\n• Avaliação pós-treino atualiza o visual imediatamente.\n• Mais testes automáticos e proteção contra regressões.\n• Progresso local preservado.",
+  "version": "1.1.0-alpha03",
+  "versionCode": 4,
+  "apk_url": "https://github.com/zakbodie/Sistema-de-Ascensao-Updates/releases/download/v1.1.0-alpha03/Sistema_de_Ascensao-1.1.0-alpha03.apk",
+  "notes": "• Interface do Sistema completamente redesenhada.\n• Nova Central de Comando.\n• Nova navegação inferior.\n• Missões de treinamento reconstruídas.\n• Novo painel de hidratação.\n• Nova experiência de disciplina.\n• Nova Rota de Ascensão.\n• Conquistas transformadas em coleção visual.\n• Novos feedbacks de XP e missão.\n• Novo visual das transmissões e atualizações.\n• Melhor responsividade e hierarquia de informações.\n• Progresso e histórico preservados.",
   "required": false,
-  "sha256": "e6cddd83d04a790167af7c106220862b540957da40efea1a19f9426048f474e4"
+  "sha256": "74f4fdbb87b3e1c37bcb969f9b5df02033ed77e66d0e80b2a9d16234e5a2950c"
 }
