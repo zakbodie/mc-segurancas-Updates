@@ -2,7 +2,7 @@
   "version": "1.1.0-alpha04",
   "versionCode": 5,
   "apk_url": "https://github.com/zakbodie/Sistema-de-Ascensao-Updates/releases/download/v1.1.0-alpha04/Sistema_de_Ascensao-1.1.0-alpha04.apk",
-  "notes": "• Interface do Sistema completamente redesenhada.\n• Nova Central de Comando.\n• Nova navegação inferior.\n• Missões de treinamento reconstruídas.\n• Novo painel de hidratação.\n• Nova experiência de disciplina.\n• Nova Rota de Ascensão.\n• Conquistas transformadas em coleção visual.\n• Novos feedbacks de XP e missão.\n• Novo visual das transmissões e atualizações.\n• Melhor responsividade e hierarquia de informações.\n• Progresso e histórico preservados.",
+  "notes": "• Nova Ascension Floating Dock premium.\n• Navegação principal agora flutua acima da barra do Android.\n• Cinco destinos principais com módulo ativo animado.\n• Safe areas corrigidas no topo e no rodapé.\n• Conteúdo protegido para não ficar escondido atrás da dock.\n• Adaptação para navegação por gestos, três botões e teclado.\n• Abas principais preservam estado sem recriação desnecessária.\n• Botão Voltar retorna ao Sistema antes de sair do aplicativo.\n• Novos ícones vetoriais próprios e feedback tátil leve.\n• Progresso, treino, XP, histórico e atualizador preservados.",
   "required": false,
   "sha256": "669aa449009c6e6f84e71f4b2719ab6ea9c49c239bdb86227c8cd4915239a4ee"
 }
