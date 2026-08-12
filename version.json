@@ -1,8 +1,8 @@
 {
-  "version": "1.1.0-alpha05",
-  "versionCode": 6,
-  "apk_url": "https://github.com/zakbodie/Sistema-de-Ascensao-Updates/releases/download/v1.1.0-alpha05/Sistema_de_Ascensao-1.1.0-alpha05.apk",
-  "notes": "• Missão de treinamento agora é guiada passo a passo pelo Sistema.\n• Séries e exercícios possuem progresso separado e reconhecimento imediato.\n• A próxima ação é mostrada com clareza e etapas futuras ficam bloqueadas até a hora certa.\n• Ao concluir um exercício, o Sistema confirma a etapa e libera automaticamente o próximo.\n• Descanso e prancha agora fazem parte do fluxo guiado com retomada de cronômetro.\n• Central de Comando sincroniza treino, XP, hidratação e Perfect Day ao retornar para a tela.\n• Hidratação ganhou progresso em tempo real, indicação do que falta para meta e próximo marco de XP.\n• Novos atalhos de +250 mL, +500 mL e registro personalizado de água.\n• Correção pontual do primeiro dia reconhece o treino concluído e preserva a hidratação com 500 mL restantes, sem duplicar recompensas.\n• XP, banco local, histórico, assinatura e atualizador automático permanecem preservados.",
+  "version": "1.1.0-alpha06",
+  "versionCode": 7,
+  "apk_url": "https://github.com/zakbodie/Sistema-de-Ascensao-Updates/releases/download/v1.1.0-alpha06/Sistema_de_Ascensao-1.1.0-alpha06.apk",
+  "notes": "• Automação da missão de treino reconstruída para ficar simples e confiável.\n• Níveis abaixo de 50 repetições agora usam uma meta completa por exercício, sem divisão em séries.\n• Descanso obrigatório foi removido dos níveis baixos.\n• A partir de 50 repetições, exercícios podem ser divididos em no máximo duas séries.\n• Descanso só aparece entre as duas séries de um exercício de volume alto, nunca depois de concluir o exercício.\n• Prancha permanece como uma única etapa cronometrada.\n• Cada exercício concluído é reconhecido imediatamente e libera o próximo automaticamente.\n• XP do treino continua sendo concedido uma única vez ao finalizar a missão.\n• Lembretes agora usam o progresso real: treino mostra a próxima ação e hidratação mostra quanto falta para a meta.\n• Correção pontual de 12/08/2026 reconhece o treino concluído e fixa a hidratação do dia em 500/1500 mL, corrigindo XP sem duplicação.\n• Visual, Ascension Floating Dock, banco local, histórico, assinatura e atualizador automático foram preservados.",
   "required": false,
-  "sha256": "51ab60615dca8a2230260485467e94a1bd6be8a76812a7a63c01567854e04fe4"
+  "sha256": "8b1699a0bb7f25738decba59c6e799b0e7862e822ace1ff67633544944180cdd"
 }
