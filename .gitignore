@@ -1,0 +1,17 @@
+# Configurações e credenciais locais
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Arquivos temporários
+*.log
+*.tmp
+*.swp
+.DS_Store
+Thumbs.db
+
+# Exportações locais e dados operacionais reais
+/exports/
+/dados-reais/

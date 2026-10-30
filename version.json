@@ -1,8 +1,0 @@
-{
-  "version": "1.1.0-alpha06",
-  "versionCode": 7,
-  "apk_url": "https://github.com/zakbodie/Sistema-de-Ascensao-Updates/releases/download/v1.1.0-alpha06/Sistema_de_Ascensao-1.1.0-alpha06.apk",
-  "notes": "• Automação da missão de treino reconstruída para ficar simples e confiável.\n• Níveis abaixo de 50 repetições agora usam uma meta completa por exercício, sem divisão em séries.\n• Descanso obrigatório foi removido dos níveis baixos.\n• A partir de 50 repetições, exercícios podem ser divididos em no máximo duas séries.\n• Descanso só aparece entre as duas séries de um exercício de volume alto, nunca depois de concluir o exercício.\n• Prancha permanece como uma única etapa cronometrada.\n• Cada exercício concluído é reconhecido imediatamente e libera o próximo automaticamente.\n• XP do treino continua sendo concedido uma única vez ao finalizar a missão.\n• Lembretes agora usam o progresso real: treino mostra a próxima ação e hidratação mostra quanto falta para a meta.\n• Correção pontual de 12/08/2026 reconhece o treino concluído e fixa a hidratação do dia em 500/1500 mL, corrigindo XP sem duplicação.\n• Visual, Ascension Floating Dock, banco local, histórico, assinatura e atualizador automático foram preservados.",
-  "required": false,
-  "sha256": "8b1699a0bb7f25738decba59c6e799b0e7862e822ace1ff67633544944180cdd"
-}
