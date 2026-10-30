@@ -1,11 +1,11 @@
-## O que mudou
+## Alteração no canal público
 
-Descreva a alteração e seu efeito no planejamento ou no produto.
+Descreva a informação de distribuição ou a versão real tratada nesta alteração.
 
-## Decisões relacionadas
+## Origem e validação
 
-Indique quais orientações confirmadas ou itens em aberto foram tratados. Diferencie sugestões de decisões aprovadas.
+Informe a orientação relacionada e como os links ou artefatos foram conferidos. Mudanças apenas documentais não representam uma versão do aplicativo.
 
-## Validação
+## Conteúdo publicado
 
-Informe como a alteração foi conferida e as limitações relevantes.
+Confirme que os arquivos são destinados ao público e que o planejamento detalhado, os dados operacionais e as credenciais permanecem no ambiente apropriado.

@@ -1,17 +1,19 @@
-# Configurações e credenciais locais
+# Credenciais e configuração local
 .env
 .env.*
 !.env.example
-*.pem
 *.key
+*.pem
+*.jks
+*.keystore
+*.p12
+*.pfx
 
-# Arquivos temporários
+# Temporários e dados operacionais
 *.log
 *.tmp
 *.swp
 .DS_Store
 Thumbs.db
-
-# Exportações locais e dados operacionais reais
-/exports/
 /dados-reais/
+/exports/
