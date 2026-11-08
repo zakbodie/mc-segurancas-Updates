@@ -1,0 +1,40 @@
+name: "Teste gratuito de voz MC Segurancas"
+
+on:
+  push:
+    branches:
+      - experimento-voz-video-20261108
+    paths:
+      - "experimento-voz/**"
+      - ".github/workflows/teste-voz-gratis.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  narracao:
+    name: "Gerar locucao brasileira sem custos"
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: "Ler arquivos do experimento"
+        uses: actions/checkout@v4
+      - name: "Configurar Python"
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: "Instalar gerador neural gratuito"
+        run: python -m pip install --disable-pip-version-check edge-tts
+      - name: "Gerar e conferir MP3"
+        run: python experimento-voz/gerar_narracao.py
+      - name: "Disponibilizar somente a narracao e a verificacao"
+        if: success()
+        uses: actions/upload-artifact@v4
+        with:
+          name: mc-segurancas-narracao-gratis
+          path: |
+            experimento-voz/saida/mc_segurancas_narracao_ptbr.mp3
+            experimento-voz/saida/verificacao.json
+          if-no-files-found: error
+          retention-days: 7
